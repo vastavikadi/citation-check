@@ -19,3 +19,4 @@ build/
 myenv
 .vscode/
 *.json
+venv/
